@@ -1,4 +1,4 @@
-package com.cesar;
+package com.craftinginterpreters;
 
 public class Token {
     final TokenType type;

@@ -1,4 +1,4 @@
-package com.cesar;
+package com.craftinginterpreters;
 
 enum TokenType {
     // single char tokens

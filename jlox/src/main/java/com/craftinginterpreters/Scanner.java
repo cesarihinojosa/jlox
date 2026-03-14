@@ -1,11 +1,10 @@
-package com.cesar;
-
+package com.craftinginterpreters;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-import static com.cesar.TokenType.*;
+import static com.craftinginterpreters.TokenType.*;
 
 public class Scanner {
     private final String source; // raw source code is just a string
